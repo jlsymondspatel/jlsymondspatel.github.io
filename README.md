@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## J.L. Symonds Patel's Library
 
 You can use the [editor on GitHub](https://github.com/jlsymondspatel/jlsymondspatel.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
