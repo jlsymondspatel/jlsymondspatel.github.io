@@ -2,34 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://jlsp.co.uk/</loc>
-         <lastmod>2024-12-15</lastmod>
+         <lastmod>2024-12-24</lastmod>
     </url>
     <url>
-         <loc>https://jlsp.co.uk/01_poetry/</loc>
-         <lastmod>2024-12-15</lastmod>
+         <loc>https://jlsp.co.uk/01_writings/</loc>
+         <lastmod>2024-12-24</lastmod>
     </url>
     <url>
-         <loc>https://jlsp.co.uk/02_writings/</loc>
-         <lastmod>2024-12-15</lastmod>
+         <loc>https://jlsp.co.uk/02_poetry/</loc>
+         <lastmod>2024-12-24</lastmod>
     </url>
     <url>
          <loc>https://jlsp.co.uk/03_engineering/</loc>
-         <lastmod>2024-12-15</lastmod>
+         <lastmod>2024-12-24</lastmod>
     </url>
     <url>
          <loc>https://jlsp.co.uk/04_programming/</loc>
-         <lastmod>2024-12-15</lastmod>
+         <lastmod>2024-12-24</lastmod>
     </url>
     <url>
-         <loc>https://jlsp.co.uk/05_other/</loc>
-         <lastmod>2024-12-15</lastmod>
+         <loc>https://jlsp.co.uk/05_language-learning/</loc>
+         <lastmod>2024-12-24</lastmod>
     </url>
     <url>
-         <loc>https://jlsp.co.uk/06_about/</loc>
-         <lastmod>2024-12-15</lastmod>
+         <loc>https://jlsp.co.uk/06_other/</loc>
+         <lastmod>2024-12-24</lastmod>
     </url>
     <url>
-         <loc>https://jlsp.co.uk/07_portfolio/</loc>
-         <lastmod>2024-12-15</lastmod>
+         <loc>https://jlsp.co.uk/07_about/</loc>
+         <lastmod>2024-12-24</lastmod>
     </url>
 </urlset>
